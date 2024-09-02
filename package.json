@@ -53,11 +53,3 @@
     "npm-force-resolutions": "^0.0.10"
   }
 }
-
-/* REACT_APP_API_KEY=AIzaSyAUdqhvRlQrffeCXQePd1C97VOyoef073Y
-REACT_APP_AUTH_DOMAIN=kingres-1a61a.firebaseapp.com
-REACT_APP_DATABASE_URL=https://kingres-1a61a-default-rtdb.firebaseio.com
-REACT_APP_PROJECT_ID=kingres-1a61a
-REACT_APP_STORAGE_BUCKET=kingres-1a61a.appspot.com
-REACT_APP_MESSAGING_SENDER_ID=613139496713
-REACT_APP_APP_ID=1:613139496713:web:e012af83cc7db68876ddd8 */
