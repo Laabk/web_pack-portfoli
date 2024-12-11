@@ -104,7 +104,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://my-persna-blog-7q.vercel.app"
+                href="https://my-persna-blog-7q.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
